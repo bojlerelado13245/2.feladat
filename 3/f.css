@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 300vw;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 100%;
+    background-color: yellow;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.d1{
+    background-color: purple;
+  
+    height: 100px;
+    width: 100px;
+    list-style: none;
+}

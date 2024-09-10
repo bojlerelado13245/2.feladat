@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 300vw;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 800px;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+}
+
+.d1{
+    background-color: green;
+  
+    height: 100px;
+    width: 100px;
+    display: none;
+}
+.d2{
+    background-color: yellow;
+
+    height: 100px;
+    width: 100px;
+    display: none;
+}
+.d3{
+    background-color: purple;
+   
+    height: 100px;
+    width: 100px;
+    
+}
